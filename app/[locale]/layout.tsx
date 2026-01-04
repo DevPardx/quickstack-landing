@@ -60,6 +60,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         "max-snippet": -1
       }
     },
+    verification: {
+      google: "Rm20sxWX_OVilpdrRbnQqaBCGmHh_mDuQ54JrUctd2E"
+    }
   };
 }
 
