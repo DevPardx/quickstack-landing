@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "title": "QuickStack | Tu socio tecnológico de confianza",
+    "description": "De idea en manos de usuarios. Desarrollo full-stack rápido y directo para negocios que necesitan validar su producto sin perder meses ni presupuesto."
+  },
+  "navbar": {
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "process": "Proceso",
+    "contact": "Contacto",
+    "cta": "Agenda tu Llamada"
+  },
+  "hero": {
+    "badge": "Tu socio tecnológico de confianza",
+    "title": {
+      "part1": "Tu idea en manos de usuarios",
+      "part2": "en solo 2 Semanas"
+    },
+    "description": "No solo escribimos código; construimos el motor de tu próximo gran salto. Olvídate de la frustración técnica y empieza a vender con un producto sólido y profesional.",
+    "feature1": "Stack moderno",
+    "feature2": "Comunicación directa (sin intermediarios)",
+    "feature3": "Código que puedes escalar mañana",
+    "cta": {
+      "primary": "Agenda tu llamada gratuita",
+      "secondary": "Ver proyectos"
+    },
+    "code": {
+      "nombre": "Tu nuevo proyecto",
+      "tiempo": "2 semanas",
+      "estado": "Listo para producción"
+    },
+    "stats": {
+      "projects": "Proyectos",
+      "weeks": "Semanas Prom.",
+      "satisfaction": "Satisfacción"
+    }
+  },
+  "socialProof": {
+    "label1": "Proyectos Entregados",
+    "label2": "Semanas Promedio",
+    "label3": "Satisfacción"
+  },
+  "services": {
+    "title": "Crezcamos Juntos",
+    "subtitle": "Soluciones pensadas para el presupuesto y la velocidad que tu etapa necesita",
+    "landing": {
+      "badge": "Inicio Rápido",
+      "name": "Landing Pro",
+      "price": "$400 - $600",
+      "duration": "1 semana",
+      "feature1": "Diseño responsive (mobile-first)",
+      "feature2": "Formulario de contacto con email",
+      "feature3": "Integración con CRM/Database",
+      "feature4": "SEO básico configurado",
+      "feature5": "Deploy incluido",
+      "ideal": "Negocios que necesitan presencia digital profesional",
+      "cta": "Más información"
+    },
+    "mvp": {
+      "badge": "Más Popular",
+      "name": "MVP Starter",
+      "price": "$900 - $1,500",
+      "duration": "2-3 semanas",
+      "feature1": "Autenticación de usuarios",
+      "feature2": "3-5 funcionalidades core",
+      "feature3": "Base de datos optimizada",
+      "feature4": "Panel de administración básico",
+      "feature5": "Responsive design",
+      "feature6": "1 semana de ajustes incluidos",
+      "ideal": "Founders que necesitan validar con usuarios reales",
+      "cta": "Agenda llamada"
+    },
+    "custom": {
+      "badge": "Personalizado",
+      "name": "Desarrollo Custom",
+      "price": "Desde $1,500",
+      "duration": "3-6 semanas",
+      "feature1": "Funcionalidades personalizadas",
+      "feature2": "Integraciones con APIs externas",
+      "feature3": "Escalabilidad considerada",
+      "feature4": "Testing y documentación",
+      "feature5": "Soporte extendido",
+      "ideal": "Proyectos con requerimientos específicos",
+      "cta": "Hablemos de tu proyecto"
+    },
+    "idealFor": "Ideal para:"
+  },
+  "techStack": {
+    "title": "Tecnología Moderna y Probada",
+    "subtitle": "Herramientas que garantizan calidad y velocidad"
+  },
+  "portfolio": {
+    "title": "Proyectos que Hablan por sí Mismos",
+    "subtitle": "Resultados reales para clientes reales",
+    "mossbros": {
+      "tag": "Gestión de Talleres",
+      "description": "Sistema web completo de gestión para taller mecánico de motocicletas. Digitalizó todos los procesos operativos eliminando registros en papel.",
+      "feature1": "Gestión de clientes y motocicletas",
+      "feature2": "Sistema de workflow para reparaciones",
+      "feature3": "Dashboard con métricas en tiempo real",
+      "result": "100% digitalizado • Búsqueda instantánea • 0 errores de cálculo"
+    },
+    "authenticdoc": {
+      "tag": "LegalTech",
+      "description": "PWA descentralizada de firma digital usando protocolo Nostr. Otorga control total sobre documentos e identidad mediante arquitectura de conocimiento cero.",
+      "feature1": "Firma digital multi-parte",
+      "feature2": "Cifrado end-to-end (NIP-44)",
+      "feature3": "Pagos Lightning Network",
+      "result": "100% descentralizado • 28+ idiomas • Alto rendimiento WASM"
+    },
+    "rtp": {
+      "tag": "Servicios de Salud",
+      "description": "Sitio web profesional para servicios de doula postparto. Educa a familias y facilita la conexión con servicios especializados de cuidado.",
+      "feature1": "7 servicios visualizados",
+      "feature2": "Sistema de captura de leads",
+      "feature3": "SEO optimizado",
+      "result": "Presencia digital profesional • Carga instantánea • Mobile-first"
+    }
+  },
+  "process": {
+    "title": "Cómo Trabajamos Juntos",
+    "subtitle": "Proceso simple, transparente y efectivo",
+    "step1": {
+      "title": "Café Virtual de Estrategia",
+      "duration": "30 minutos · Gratis",
+      "description": "No es solo una venta. Analizamos si tu idea es viable y cómo podemos hacerla realidad de la forma más eficiente."
+    },
+    "step2": {
+      "title": "Propuesta",
+      "duration": "24-48 horas",
+      "description": "Plan detallado, alcance, timeline y presupuesto exacto."
+    },
+    "step3": {
+      "title": "Desarrollo",
+      "duration": "2-3 semanas",
+      "description": "Updates diarios por Slack. Somos tu equipo técnico interno, pero sin los costos de contratación."
+    },
+    "step4": {
+      "title": "Entrega & Ajustes",
+      "duration": "1 semana incluida",
+      "description": "Refinamos detalles hasta que quede perfecto."
+    },
+    "step5": {
+      "title": "Soporte",
+      "duration": "30 días incluidos",
+      "description": "Bug fixes y dudas técnicas sin costo adicional."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": {
+      "question": "¿Cuánto tiempo toma un proyecto típico?",
+      "answer": "La mayoría de los MVPs se completan en 2-3 semanas. Las landings están listas en 1 semana. Proyectos custom pueden tomar 3-6 semanas dependiendo de la complejidad. En nuestra llamada inicial te daremos un timeline exacto."
+    },
+    "q2": {
+      "question": "¿Incluyen el diseño UI/UX?",
+      "answer": "Sí, todos los paquetes incluyen diseño UI/UX profesional. Trabajamos con un enfoque mobile-first y diseño limpio. Si ya tienes un diseño, podemos implementarlo directamente."
+    },
+    "q3": {
+      "question": "¿Qué pasa después de la entrega?",
+      "answer": "Todos los proyectos incluyen 1 semana de ajustes post-entrega y 30 días de soporte técnico para bugs. Después de ese período, ofrecemos planes de mantenimiento mensual o puedes contactarnos para mejoras puntuales."
+    },
+    "q4": {
+      "question": "¿Trabajan con clientes fuera de El Salvador?",
+      "answer": "¡Absolutamente! Trabajamos con clientes de toda Latinoamérica, Estados Unidos y Europa. La comunicación es vía Slack, email y videollamadas. El timezone no es problema - nos adaptamos a tu horario."
+    },
+    "q5": {
+      "question": "¿Ofrecen mantenimiento continuo?",
+      "answer": "Sí, ofrecemos planes de mantenimiento mensual que incluyen: actualizaciones de seguridad, monitoreo, pequeñas mejoras y soporte prioritario. Los precios varían según el proyecto, generalmente entre $100-$300/mes."
+    },
+    "q6": {
+      "question": "¿Cuál es tu política de pagos?",
+      "answer": "Generalmente trabajamos con 50% inicial y 50% al entregar. Para proyectos más grandes, podemos dividir en más milestones. Aceptamos transferencias bancarias, PayPal y criptomonedas. Todo queda documentado en un contrato simple."
+    }
+  },
+  "cta": {
+    "heading": {
+      "part1": "¿Hacemos realidad",
+      "part2": "tu visión?"
+    },
+    "description": "No dejes que la tecnología sea el freno de tu negocio. Hablemos y diseñemos el camino más rápido hacia tu éxito.",
+    "button": "Agenda tu llamada gratuita de 30 min",
+    "emailLabel": "O escríbenos directo:"
+  },
+  "footer": {
+    "tagline": "Tu socio tecnológico de confianza",
+    "services": "Servicios",
+    "legal": "Legal",
+    "contact": "Contacto",
+    "servicesLinks": {
+      "landing": "Landing Pages",
+      "mvp": "MVPs",
+      "custom": "Desarrollo Custom"
+    },
+    "legalLinks": {
+      "terms": "Términos",
+      "privacy": "Privacidad"
+    }
+  },
+  "terms": {
+    "metadata": {
+      "title": "Términos de Servicio | QuickStack",
+      "description": "Términos y condiciones de uso de los servicios de QuickStack"
+    },
+    "backToHome": "Volver al inicio",
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Enero 2026",
+    "section1": {
+      "title": "1. Aceptación de Términos",
+      "content": "Al contratar los servicios de QuickStack, usted acepta estos términos y condiciones en su totalidad. Si no está de acuerdo con alguna parte de estos términos, no podrá utilizar nuestros servicios."
+    },
+    "section2": {
+      "title": "2. Descripción de Servicios",
+      "content": "QuickStack ofrece servicios de desarrollo de software que incluyen, pero no se limitan a:",
+      "items": [
+        "Desarrollo de landing pages profesionales",
+        "Creación de MVPs (Producto Mínimo Viable)",
+        "Desarrollo de aplicaciones web personalizadas",
+        "Integración de sistemas y APIs",
+        "Consultoría técnica"
+      ]
+    },
+    "section3": {
+      "title": "3. Proceso de Trabajo",
+      "content": "Cada proyecto comienza con una llamada de descubrimiento para entender sus necesidades. Posteriormente, se presenta una propuesta detallada con alcance, cronograma y presupuesto. El trabajo inicia una vez aprobada la propuesta y recibido el pago inicial acordado."
+    },
+    "section4": {
+      "title": "4. Pagos y Facturación",
+      "content": "Los términos de pago se establecen en cada propuesta individual. Generalmente:",
+      "items": [
+        "50% al inicio del proyecto",
+        "50% al momento de entrega",
+        "Los pagos son procesados mediante transferencia bancaria o plataformas de pago acordadas"
+      ]
+    },
+    "section5": {
+      "title": "5. Propiedad Intelectual",
+      "content": "Una vez completado el pago total, el cliente recibe todos los derechos sobre el código fuente y los activos digitales desarrollados específicamente para su proyecto. QuickStack retiene el derecho de utilizar herramientas, bibliotecas y componentes genéricos desarrollados internamente en otros proyectos."
+    },
+    "section6": {
+      "title": "6. Revisiones y Cambios",
+      "content": "Cada paquete incluye un número específico de rondas de revisión detallado en la propuesta. Cambios significativos en el alcance del proyecto pueden requerir ajustes en el presupuesto y cronograma, los cuales serán comunicados y aprobados antes de proceder."
+    },
+    "section7": {
+      "title": "7. Confidencialidad",
+      "content": "QuickStack se compromete a mantener la confidencialidad de toda la información compartida durante el proyecto. No compartiremos información sensible de su negocio con terceros sin su consentimiento expreso."
+    },
+    "section8": {
+      "title": "8. Garantía y Soporte",
+      "content": "Ofrecemos un período de garantía de 30 días después de la entrega para corrección de bugs relacionados con el trabajo entregado. El soporte adicional y mantenimiento continuo pueden ser contratados por separado."
+    },
+    "section9": {
+      "title": "9. Limitación de Responsabilidad",
+      "content": "QuickStack no será responsable por daños indirectos, incidentales o consecuentes que puedan surgir del uso del software desarrollado. Nuestra responsabilidad máxima se limita al monto total pagado por el proyecto."
+    },
+    "section10": {
+      "title": "10. Cancelación",
+      "content": "El cliente puede cancelar el proyecto en cualquier momento. En caso de cancelación, se facturará el trabajo completado hasta la fecha. Los pagos adelantados no son reembolsables una vez iniciado el desarrollo."
+    },
+    "section11": {
+      "title": "11. Contacto",
+      "content": "Para cualquier pregunta sobre estos términos, puede contactarnos en",
+      "email": "projects@quickstack.agency"
+    }
+  },
+  "privacy": {
+    "metadata": {
+      "title": "Política de Privacidad | QuickStack",
+      "description": "Política de privacidad y protección de datos de QuickStack"
+    },
+    "backToHome": "Volver al inicio",
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Enero 2026",
+    "section1": {
+      "title": "1. Información que Recopilamos",
+      "content": "Recopilamos información que usted nos proporciona directamente, incluyendo:",
+      "items": [
+        "Nombre y datos de contacto (email, teléfono)",
+        "Información de su empresa u organización",
+        "Detalles del proyecto y requerimientos técnicos",
+        "Información de facturación y pago",
+        "Comunicaciones que intercambiamos durante el proyecto"
+      ]
+    },
+    "section2": {
+      "title": "2. Uso de la Información",
+      "content": "Utilizamos la información recopilada para:",
+      "items": [
+        "Proveer y mejorar nuestros servicios de desarrollo",
+        "Comunicarnos sobre el progreso de su proyecto",
+        "Procesar pagos y enviar facturas",
+        "Responder a sus consultas y solicitudes de soporte",
+        "Enviar actualizaciones relevantes sobre nuestros servicios (con su consentimiento)"
+      ]
+    },
+    "section3": {
+      "title": "3. Compartir Información",
+      "content": "No vendemos ni compartimos su información personal con terceros, excepto en los siguientes casos:",
+      "items": [
+        "Proveedores de servicios necesarios para el proyecto (hosting, pagos) bajo acuerdos de confidencialidad",
+        "Cuando sea requerido por ley o proceso legal",
+        "Con su consentimiento explícito"
+      ]
+    },
+    "section4": {
+      "title": "4. Seguridad de Datos",
+      "content": "Implementamos medidas de seguridad técnicas y organizativas para proteger su información contra acceso no autorizado, alteración, divulgación o destrucción. Esto incluye encriptación de datos sensibles, acceso restringido a información del proyecto, y prácticas seguras de desarrollo."
+    },
+    "section5": {
+      "title": "5. Retención de Datos",
+      "content": "Conservamos su información durante el tiempo necesario para cumplir con los propósitos descritos en esta política, incluyendo obligaciones legales y fiscales. Los datos del proyecto se mantienen durante la relación comercial y por un período razonable posterior para soporte y referencias."
+    },
+    "section6": {
+      "title": "6. Sus Derechos",
+      "content": "Usted tiene derecho a:",
+      "items": [
+        "Acceder a la información personal que tenemos sobre usted",
+        "Solicitar corrección de datos inexactos",
+        "Solicitar eliminación de sus datos (sujeto a obligaciones legales)",
+        "Oponerse al procesamiento de sus datos para marketing",
+        "Solicitar portabilidad de sus datos"
+      ]
+    },
+    "section7": {
+      "title": "7. Cookies y Tecnologías de Seguimiento",
+      "content": "Nuestro sitio web puede utilizar cookies y tecnologías similares para mejorar la experiencia del usuario y analizar el tráfico del sitio. Puede configurar su navegador para rechazar cookies, aunque esto podría afectar algunas funcionalidades."
+    },
+    "section8": {
+      "title": "8. Sitios de Terceros",
+      "content": "Nuestro sitio puede contener enlaces a sitios web de terceros. No somos responsables de las prácticas de privacidad de estos sitios y le recomendamos revisar sus políticas de privacidad respectivas."
+    },
+    "section9": {
+      "title": "9. Cambios a esta Política",
+      "content": "Podemos actualizar esta política de privacidad ocasionalmente. Le notificaremos sobre cambios significativos publicando la nueva política en nuestro sitio web con la fecha de actualización correspondiente."
+    },
+    "section10": {
+      "title": "10. Contacto",
+      "content": "Si tiene preguntas sobre esta política de privacidad o sobre cómo manejamos sus datos, contáctenos en",
+      "email": "projects@quickstack.agency"
+    }
+  }
+}

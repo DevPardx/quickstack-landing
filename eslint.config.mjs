@@ -13,6 +13,12 @@ const eslintConfig = defineConfig([
     "build/**",
     "next-env.d.ts",
   ]),
+  {
+    rules: {
+      "semi": ["error", "always"],
+      "quotes": ["error", "double", { "avoidEscape": true }],
+    },
+  },
 ]);
 
 export default eslintConfig;

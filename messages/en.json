@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "title": "QuickStack | Your trusted technology partner",
+    "description": "Your idea in users’ hands. Fast and straightforward full-stack development for business that need to validate their product without losing months or budget."
+  },
+  "navbar": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Book Your Call"
+  },
+  "hero": {
+    "badge": "Your trusted technology partner",
+    "title": {
+      "part1": "Your idea in users’ hands",
+      "part2": "in just 2 Weeks"
+    },
+    "description": "We don’t just write code; we build the engine for your next big leap. Leave technical frustration behind and start selling with a solid, professional product.",
+    "feature1": "Modern stack",
+    "feature2": "Direct communication (no intermediaries)",
+    "feature3": "Code you can scale tomorrow",
+    "cta": {
+      "primary": "Book your free call",
+      "secondary": "View projects"
+    },
+    "code": {
+      "nombre": "Your new project",
+      "tiempo": "2 weeks",
+      "estado": "Production-ready"
+    },
+    "stats": {
+      "projects": "Projects",
+      "weeks": "Avg. Weeks",
+      "satisfaction": "Satisfaction"
+    }
+  },
+  "socialProof": {
+    "label1": "Delivered Projects",
+    "label2": "Average Weeks",
+    "label3": "Satisfaction"
+  },
+  "services": {
+    "title": "Let’s Grow Together",
+    "subtitle": "Solutions designed for the budget and speed your stage needs",
+    "landing": {
+      "badge": "Fast Start",
+      "name": "Pro Landing",
+      "price": "$400 - $600",
+      "duration": "1 week",
+      "feature1": "Responsive design (mobile-first)",
+      "feature2": "Contact form with email",
+      "feature3": "CRM/Database integration",
+      "feature4": "Basic SEO configured",
+      "feature5": "Deploy included",
+      "ideal": "Businesses that need a professional digital presence",
+      "cta": "More information"
+    },
+    "mvp": {
+      "badge": "Most Popular",
+      "name": "MVP Starter",
+      "price": "$900 - $1,500",
+      "duration": "2–3 weeks",
+      "feature1": "User authentication",
+      "feature2": "3–5 core features",
+      "feature3": "Optimized database",
+      "feature4": "Basic admin panel",
+      "feature5": "Responsive design",
+      "feature6": "1 week of adjustments included",
+      "ideal": "Founders who need to validate with real users",
+      "cta": "Book call"
+    },
+    "custom": {
+      "badge": "Custom",
+      "name": "Custom Development",
+      "price": "From $1,500",
+      "duration": "3–6 weeks",
+      "feature1": "Custom features",
+      "feature2": "Integrations with external APIs",
+      "feature3": "Scalability considered",
+      "feature4": "Testing and documentation",
+      "feature5": "Extended support",
+      "ideal": "Projects with specific requirements",
+      "cta": "Let’s talk about your project"
+    },
+    "idealFor": "Ideal for:"
+  },
+  "techStack": {
+    "title": "Modern and Proven Technology",
+    "subtitle": "Tools that guarantee quality and speed"
+  },
+  "portfolio": {
+    "title": "Projects that Speak for Themselves",
+    "subtitle": "Real results for real clients",
+    "mossbros": {
+      "tag": "Workshop Management",
+      "description": "Complete web management system for a motorcycle repair shop. Digitized all operational processes, eliminating paper records.",
+      "feature1": "Customer and motorcycle management",
+      "feature2": "Workflow system for repairs",
+      "feature3": "Dashboard with real-time metrics",
+      "result": "100% digitized • Instant search • 0 calculation errors"
+    },
+    "authenticdoc": {
+      "tag": "LegalTech",
+      "description": "Decentralized PWA for digital signatures using the Nostr protocol. Provides full control over documents and identity through zero-knowledge architecture.",
+      "feature1": "Multi-party digital signatures",
+      "feature2": "End-to-end encryption (NIP-44)",
+      "feature3": "Lightning Network payments",
+      "result": "100% decentralized • 28+ languages • High-performance WASM"
+    },
+    "rtp": {
+      "tag": "Healthcare Services",
+      "description": "Professional website for postpartum doula services. Educates families and makes it easier to connect with specialized care services.",
+      "feature1": "7 services showcased",
+      "feature2": "Lead capture system",
+      "feature3": "SEO optimized",
+      "result": "Professional digital presence • Instant load • Mobile-first"
+    }
+  },
+  "process": {
+    "title": "How We Work Together",
+    "subtitle": "Simple, transparent, and effective process",
+    "step1": {
+      "title": "Virtual Strategy Coffee",
+      "duration": "30 minutes · Free",
+      "description": "It’s not just a sales call. We analyze whether your idea is viable and how we can make it a reality in the most efficient way."
+    },
+    "step2": {
+      "title": "Proposal",
+      "duration": "24–48 hours",
+      "description": "Detailed plan, scope, timeline, and exact budget."
+    },
+    "step3": {
+      "title": "Development",
+      "duration": "2–3 weeks",
+      "description": "Daily updates via Slack. We act as your internal tech team, but without hiring costs."
+    },
+    "step4": {
+      "title": "Delivery & Adjustments",
+      "duration": "1 week included",
+      "description": "We refine details until everything is perfect."
+    },
+    "step5": {
+      "title": "Support",
+      "duration": "30 days included",
+      "description": "Bug fixes and technical questions at no additional cost."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": {
+      "question": "How long does a typical project take?",
+      "answer": "Most MVPs are completed in 2–3 weeks. Landing pages are ready in 1 week. Custom projects may take 3–6 weeks depending on complexity. During our initial call we will provide you with an exact timeline."
+    },
+    "q2": {
+      "question": "Do you include UI/UX design?",
+      "answer": "Yes, all packages include professional UI/UX design. We work with a mobile-first approach and clean design. If you already have a design, we can implement it directly."
+    },
+    "q3": {
+      "question": "What happens after delivery?",
+      "answer": "All projects include 1 week of post-delivery adjustments and 30 days of technical support for bugs. After that period, we offer monthly maintenance plans or you can contact us for specific improvements."
+    },
+    "q4": {
+      "question": "Do you work with clients outside El Salvador?",
+      "answer": "Absolutely. We work with clients across Latin America, the United States, and Europe. Communication is via Slack, email, and video calls. Time zones are not a problem — we adapt to your schedule."
+    },
+    "q5": {
+      "question": "Do you offer ongoing maintenance?",
+      "answer": "Yes, we offer monthly maintenance plans that include security updates, monitoring, small improvements, and priority support. Prices vary by project, generally between $100–$300/month."
+    },
+    "q6": {
+      "question": "What is your payment policy?",
+      "answer": "We usually work with 50% upfront and 50% on delivery. For larger projects, we can split payments into more milestones. We accept bank transfers, PayPal, and cryptocurrencies. Everything is documented in a simple contract."
+    }
+  },
+  "cta": {
+    "heading": {
+      "part1": "Shall we make",
+      "part2": "your vision a reality?"
+    },
+    "description": "Don’t let technology be the brake on your business. Let’s talk and design the fastest path to your success.",
+    "button": "Book your free 30-min call",
+    "emailLabel": "Or write to us directly:"
+  },
+  "footer": {
+    "tagline": "Your trusted technology partner",
+    "services": "Services",
+    "legal": "Legal",
+    "contact": "Contact",
+    "servicesLinks": {
+      "landing": "Landing Pages",
+      "mvp": "MVPs",
+      "custom": "Custom Development"
+    },
+    "legalLinks": {
+      "terms": "Terms",
+      "privacy": "Privacy"
+    }
+  },
+  "terms": {
+    "metadata": {
+      "title": "Terms of Service | QuickStack",
+      "description": "Terms and conditions for QuickStack software development services"
+    },
+    "backToHome": "Back to home",
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: January 2026",
+    "section1": {
+      "title": "1. Acceptance of Terms",
+      "content": "By engaging QuickStack's services, you accept these terms and conditions in their entirety. If you disagree with any part of these terms, you may not use our services."
+    },
+    "section2": {
+      "title": "2. Description of Services",
+      "content": "QuickStack offers software development services including, but not limited to:",
+      "items": [
+        "Professional landing page development",
+        "MVP (Minimum Viable Product) creation",
+        "Custom web application development",
+        "System and API integrations",
+        "Technical consulting"
+      ]
+    },
+    "section3": {
+      "title": "3. Work Process",
+      "content": "Each project begins with a discovery call to understand your needs. Subsequently, a detailed proposal is presented with scope, timeline, and budget. Work begins once the proposal is approved and the agreed initial payment is received."
+    },
+    "section4": {
+      "title": "4. Payments and Billing",
+      "content": "Payment terms are established in each individual proposal. Generally:",
+      "items": [
+        "50% at project start",
+        "50% upon delivery",
+        "Payments are processed via bank transfer or agreed payment platforms"
+      ]
+    },
+    "section5": {
+      "title": "5. Intellectual Property",
+      "content": "Once full payment is completed, the client receives all rights to the source code and digital assets developed specifically for their project. QuickStack retains the right to use tools, libraries, and generic components developed internally in other projects."
+    },
+    "section6": {
+      "title": "6. Revisions and Changes",
+      "content": "Each package includes a specific number of revision rounds detailed in the proposal. Significant changes to the project scope may require adjustments to the budget and timeline, which will be communicated and approved before proceeding."
+    },
+    "section7": {
+      "title": "7. Confidentiality",
+      "content": "QuickStack commits to maintaining the confidentiality of all information shared during the project. We will not share sensitive business information with third parties without your express consent."
+    },
+    "section8": {
+      "title": "8. Warranty and Support",
+      "content": "We offer a 30-day warranty period after delivery for bug fixes related to the delivered work. Additional support and ongoing maintenance can be contracted separately."
+    },
+    "section9": {
+      "title": "9. Limitation of Liability",
+      "content": "QuickStack will not be liable for indirect, incidental, or consequential damages that may arise from the use of the developed software. Our maximum liability is limited to the total amount paid for the project."
+    },
+    "section10": {
+      "title": "10. Cancellation",
+      "content": "The client may cancel the project at any time. In case of cancellation, work completed to date will be invoiced. Advance payments are non-refundable once development has started."
+    },
+    "section11": {
+      "title": "11. Contact",
+      "content": "For any questions about these terms, you can contact us at",
+      "email": "projects@quickstack.agency"
+    }
+  },
+  "privacy": {
+    "metadata": {
+      "title": "Privacy Policy | QuickStack",
+      "description": "Privacy policy and data protection information for QuickStack"
+    },
+    "backToHome": "Back to home",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 2026",
+    "section1": {
+      "title": "1. Information We Collect",
+      "content": "We collect information you provide directly to us, including:",
+      "items": [
+        "Name and contact details (email, phone)",
+        "Your company or organization information",
+        "Project details and technical requirements",
+        "Billing and payment information",
+        "Communications we exchange during the project"
+      ]
+    },
+    "section2": {
+      "title": "2. Use of Information",
+      "content": "We use the collected information to:",
+      "items": [
+        "Provide and improve our development services",
+        "Communicate about your project's progress",
+        "Process payments and send invoices",
+        "Respond to your inquiries and support requests",
+        "Send relevant updates about our services (with your consent)"
+      ]
+    },
+    "section3": {
+      "title": "3. Sharing Information",
+      "content": "We do not sell or share your personal information with third parties, except in the following cases:",
+      "items": [
+        "Service providers necessary for the project (hosting, payments) under confidentiality agreements",
+        "When required by law or legal process",
+        "With your explicit consent"
+      ]
+    },
+    "section4": {
+      "title": "4. Data Security",
+      "content": "We implement technical and organizational security measures to protect your information against unauthorized access, alteration, disclosure, or destruction. This includes encryption of sensitive data, restricted access to project information, and secure development practices."
+    },
+    "section5": {
+      "title": "5. Data Retention",
+      "content": "We retain your information for as long as necessary to fulfill the purposes described in this policy, including legal and tax obligations. Project data is maintained during the business relationship and for a reasonable period thereafter for support and reference."
+    },
+    "section6": {
+      "title": "6. Your Rights",
+      "content": "You have the right to:",
+      "items": [
+        "Access the personal information we have about you",
+        "Request correction of inaccurate data",
+        "Request deletion of your data (subject to legal obligations)",
+        "Object to processing of your data for marketing",
+        "Request portability of your data"
+      ]
+    },
+    "section7": {
+      "title": "7. Cookies and Tracking Technologies",
+      "content": "Our website may use cookies and similar technologies to improve user experience and analyze site traffic. You can configure your browser to reject cookies, although this may affect some functionalities."
+    },
+    "section8": {
+      "title": "8. Third-Party Sites",
+      "content": "Our site may contain links to third-party websites. We are not responsible for the privacy practices of these sites and recommend reviewing their respective privacy policies."
+    },
+    "section9": {
+      "title": "9. Changes to This Policy",
+      "content": "We may update this privacy policy occasionally. We will notify you of significant changes by posting the new policy on our website with the corresponding update date."
+    },
+    "section10": {
+      "title": "10. Contact",
+      "content": "If you have questions about this privacy policy or how we handle your data, contact us at",
+      "email": "projects@quickstack.agency"
+    }
+  }
+}
