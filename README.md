@@ -1,5 +1,9 @@
 <div align="center">
-  <img alt="QuickStack Logo" src="./public/logos/horizontal-light.png" width="400">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="public/logos/wordmark-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="public/logos/wordmark-light.png">
+    <img alt="QuickStack" src="public/logos/wordmark-light.png" width="200">
+  </picture>
 
   <h3>Your trusted technology partner</h3>
   <p><strong>From idea to users' hands in just 2 weeks</strong></p>
@@ -51,7 +55,7 @@ This landing page is built with modern, performance-focused technologies:
 ## Featured Projects
 
 ### MossBros - Workshop Management System
-<img src="./public/mossbros-screenshot.png" alt="MossBros Screenshot" width="600">
+<img src="public/mossbros-screenshot.png" alt="MossBros Screenshot" width="600">
 
 **Workshop Management** | Complete web management system for a motorcycle repair shop
 
@@ -63,7 +67,7 @@ This landing page is built with modern, performance-focused technologies:
 ---
 
 ### AuthenticDoc - Decentralized Digital Signatures
-<img src="./public/authenticdoc-screenshot.png" alt="AuthenticDoc Screenshot" width="600">
+<img src="public/authenticdoc-screenshot.png" alt="AuthenticDoc Screenshot" width="600">
 
 **LegalTech** | Decentralized PWA using Nostr protocol
 
@@ -75,7 +79,7 @@ This landing page is built with modern, performance-focused technologies:
 ---
 
 ### RTP - Postpartum Doula Services
-<img src="./public/rtp-screenshot.png" alt="RTP Screenshot" width="600">
+<img src="public/rtp-screenshot.png" alt="RTP Screenshot" width="600">
 
 **Healthcare Services** | Professional website for postpartum doula services
 
@@ -261,7 +265,11 @@ This is a proprietary software project for QuickStack software agency.
 ---
 
 <div align="center">
-  <img alt="QuickStack" src="./public/logos/wordmark-light.png" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="public/logos/wordmark-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="public/logos/wordmark-light.png">
+    <img alt="QuickStack" src="public/logos/wordmark-light.png" width="200">
+  </picture>
 
   <p><strong>Your trusted technology partner</strong></p>
   <p><em>We build the engine for your next big leap</em></p>
