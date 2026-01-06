@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "QuickStack | Your trusted technology partner",
-    "description": "Your idea in users’ hands. Fast and straightforward full-stack development for business that need to validate their product without losing months or budget."
+    "description": "Transform your ideas into professional digital solutions. Fast, transparent development for startups, entrepreneurs and small businesses ready to grow their online presence."
   },
   "navbar": {
     "services": "Services",
@@ -17,7 +17,7 @@
       "part2": "in just 2 Weeks"
     },
     "description": "We don’t just write code; we build the engine for your next big leap. Leave technical frustration behind and start selling with a solid, professional product.",
-    "feature1": "Modern stack",
+    "feature1": "Modern technologies",
     "feature2": "Direct communication (no intermediaries)",
     "feature3": "Code you can scale tomorrow",
     "cta": {
