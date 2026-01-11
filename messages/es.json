@@ -50,7 +50,7 @@
     "landing": {
       "badge": "Inicio Rápido",
       "name": "Landing Pro",
-      "price": "$400 - $600",
+      "price": "$200 - $400",
       "duration": "1 semana",
       "feature1": "Diseño responsive (mobile-first)",
       "feature2": "Formulario de contacto con email",
@@ -63,7 +63,7 @@
     "mvp": {
       "badge": "Más Popular",
       "name": "MVP Starter",
-      "price": "$900 - $1,500",
+      "price": "$500 - $1,000",
       "duration": "2-3 semanas",
       "feature1": "Autenticación de usuarios",
       "feature2": "3-5 funcionalidades core",
@@ -77,7 +77,7 @@
     "custom": {
       "badge": "Personalizado",
       "name": "Desarrollo Custom",
-      "price": "Desde $1,500",
+      "price": "Desde $1,000",
       "duration": "3-6 semanas",
       "feature1": "Funcionalidades personalizadas",
       "feature2": "Integraciones con APIs externas",
