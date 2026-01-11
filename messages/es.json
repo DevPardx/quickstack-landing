@@ -25,9 +25,13 @@
       "secondary": "Ver proyectos"
     },
     "code": {
-      "nombre": "Tu nuevo proyecto",
-      "tiempo": "2 semanas",
-      "estado": "Listo para producción"
+      "project": "proyecto",
+      "name_title": "nombre",
+      "name": "Tu nuevo proyecto",
+      "time_title": "tiempo",
+      "time": "2 semanas",
+      "status_title": "estado",
+      "status": "Listo para producción"
     },
     "stats": {
       "projects": "Proyectos",

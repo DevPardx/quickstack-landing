@@ -105,16 +105,16 @@ export function HeroSection() {
                                 <div className="p-6 font-mono text-sm">
                                     <div className="space-y-2">
                                         <div className="text-muted-foreground">
-                                            <span className="text-accent">const</span> proyecto{" "}
+                                            <span className="text-accent">const</span> {t("hero.code.project")}{" "}
                                             <span className="text-muted-foreground">=</span> <span className="text-accent">{"{"}</span>
                                         </div>
                                         <div className="pl-4">
-                                            <span className="text-foreground">nombre</span>:{" "}
-                                            <span className="text-green-400">{`"${t("hero.code.nombre")}"`}</span>,
+                                            <span className="text-foreground">{t("hero.code.name_title")}</span>:{" "}
+                                            <span className="text-green-400">{`"${t("hero.code.name")}"`}</span>,
                                         </div>
                                         <div className="pl-4">
-                                            <span className="text-foreground">tiempo</span>:{" "}
-                                            <span className="text-green-400">{`"${t("hero.code.tiempo")}"`}</span>,
+                                            <span className="text-foreground">{t("hero.code.time_title")}</span>:{" "}
+                                            <span className="text-green-400">{`"${t("hero.code.time")}"`}</span>,
                                         </div>
                                         <div className="pl-4">
                                             <span className="text-foreground">stack</span>: [
@@ -124,8 +124,8 @@ export function HeroSection() {
                                             ],
                                         </div>
                                         <div className="pl-4">
-                                            <span className="text-foreground">estado</span>:{" "}
-                                            <span className="text-green-400">{`"${t("hero.code.estado")}"`}</span>
+                                            <span className="text-foreground">{t("hero.code.status_title")}</span>:{" "}
+                                            <span className="text-green-400">{`"${t("hero.code.status")}"`}</span>
                                         </div>
                                         <div className="text-accent">{"}"}</div>
                                     </div>
