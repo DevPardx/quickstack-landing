@@ -54,7 +54,7 @@ export function Navbar() {
                             <Link
                                 key={link.href}
                                 href={link.href}
-                                className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+                                className="text-sm text-foreground"
                             >
                                 {link.label}
                             </Link>
@@ -64,7 +64,7 @@ export function Navbar() {
                     <div className="hidden md:flex items-center gap-4">
                         <button
                             onClick={toggleLanguage}
-                            className="flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground transition-colors"
+                            className="flex items-center gap-1 text-sm text-foreground"
                         >
                             <GlobeIcon className="size-4" />
                             {locale.toUpperCase()}
